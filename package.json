@@ -1,0 +1,22 @@
+{
+  "name": "advancednodejs",
+  "version": "1.0.0",
+  "description": "\"#AdvancedNodeJS-Notes\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umalik87/AdvancedNodeJS-Notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umalik87/AdvancedNodeJS-Notes/issues"
+  },
+  "homepage": "https://github.com/umalik87/AdvancedNodeJS-Notes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
